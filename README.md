@@ -4,7 +4,7 @@
 
 common datastructures implemented in typescript.
 
-## featured
+## data structures:
 
 - Stack
 - Queue
