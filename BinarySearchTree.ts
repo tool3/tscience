@@ -1,7 +1,6 @@
 import Queue from './Queue';
 import Node from './types/Node';
-
-type Value = string | number;
+import { Value } from './types/Value';
 
 class TreeNode<Value> extends Node<Value> {
     public left: TreeNode<Value> | null;
