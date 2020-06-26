@@ -1,5 +1,7 @@
 # tscience
 
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width=200 height=200/>
+
 common datastructures implemented in typescript.
 
 ## featured
@@ -9,4 +11,5 @@ common datastructures implemented in typescript.
 - Singly Linked List
 - Binary Search Tree
 - Trie
-  ... more coming
+- MaxBinaryHeap
+- Graph
